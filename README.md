@@ -8,10 +8,10 @@ The projects below were tested under NDA. Client names, product details and test
 
 | Project type | Platform | My role | Work done |
 |---|---|---|---|
-| Caregiving staffing platform (employer, employee and admin apps) | Web | Manual QA | Exploratory testing, 22-case test suite, ~30 defects reported (incl. a critical crash) |
+| Caregiving staffing platform | Web and mobile | Manual QA | Exploratory testing, 22-case test suite, ~30 defects reported (incl. a critical crash) |
 | Long-form writing app with real-time collaboration and AI assistant | Web | Manual QA | Release testing on staging, test cases, 20+ defects reported |
 | E-commerce search engine and AI shopping chatbot | Web | Manual QA | Relevance and consistency testing (Georgian and English), ~20 defects reported |
-| Dating app | iOS | Manual QA | Exploratory testing, 5 defects reported |
+| Dating app | Mobile (iOS, Android) | Manual QA | Exploratory testing, 5 defects reported |
 | Debate platform | Mobile | Manual QA (short engagement) | Exploratory testing, 2 defects reported |
 | Fashion e-commerce | Web | Manual QA (support) | Smoke testing and verification of reported issues |
 
@@ -25,7 +25,7 @@ Typical work on these projects: exploring features without formal requirements, 
 
 ## Skills
 
-- **Testing:** functional, regression, smoke, exploratory, UI and localization testing; web and mobile (iOS)
+- **Testing:** functional, regression, smoke, exploratory, UI and localization testing; web and mobile (iOS, Android)
 - **Test design:** equivalence partitioning, boundary value analysis, decision tables, state transition testing
 - **Documentation:** test cases, checklists, bug reports with clear steps, severity and priority
 - **Tools:** Chrome DevTools (Console, Network), Postman (REST API), SQL basics, ClickUp
