@@ -1,4 +1,4 @@
-# QA Portfolio — Eka Gurgenashvili
+# QA Portfolio: Eka Gurgenashvili
 
 Manual QA engineer at the start of my career, with a background in scientific research (PhD in Astrophysics). Years of working with large datasets taught me to look for anomalies, reproduce results and document them precisely. Those are the same skills I now use to find and report software defects.
 
